@@ -5,4 +5,4 @@ Desenvolvido enquanto cursava Técnologo em Análise e Desenvolvimento de Sistem
 
 Se trata de um Quiz sobre memes da época.
 
-Feito exclusivamente em JFrame
+Feito exclusivamente com JFrame
